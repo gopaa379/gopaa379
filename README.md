@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gopa.
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning DL, NLP.
-- 💞️ I’m looking to collaborate on DL, NLP projects.
+- 🌱 I’m currently learning DL, CNN, NLP, LLM.
+- 💞️ I’m looking to collaborate on DL, CNN, NLP, LLM projects.
 - 📫 I'm reachable at gopa.adhikari@gmail.com
 
 <!---
